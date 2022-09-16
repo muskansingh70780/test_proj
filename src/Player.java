@@ -3,7 +3,6 @@ class Player {
 	public void PlayerQuality() {
 		System.out.println("Very Energetic");
 	}
-
 }
 class Cricket_Player extends Player{
 	public void PlayerQuality() {
@@ -12,7 +11,7 @@ class Cricket_Player extends Player{
 }
 class Football_Player extends Player{
 	public void PlayerQuality() {
-		System.out.println("Very polite");
+		System.out.println("Very polite behaviour");
 	}
 }
 class Hockey_Player extends Player{
